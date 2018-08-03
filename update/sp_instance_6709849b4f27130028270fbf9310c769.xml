@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">401b0cdb4f27130028270fbf9310c738</sp_column>
+        <sp_widget display_value="HTML">8679ef89cb21120000f8d856634c9c4f</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-08-01 01:04:34</sys_created_on>
+        <sys_id>6709849b4f27130028270fbf9310c769</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>Welcome</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sp_instance_6709849b4f27130028270fbf9310c769</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-08-01 01:13:38</sys_updated_on>
+        <title>Welcome</title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"html": {
+		"value": "<h1>Welcome</h1>\n<p><img style=\"max-width: 100%; max-height: 480px;\" src=\"4e0a889b4f27130028270fbf9310c721.iix\" /></p>\n<h2>By taking steps toward&nbsp;<strong>healthy living</strong>, you can help reduce your risk of heart disease, cancer, stroke and other serious diseases: ... Maintain a&nbsp;<strong>healthy</strong>&nbsp;weight. Eat a variety of&nbsp;<strong>healthy</strong>&nbsp;foods, and limit calories and saturated fat. Be physically active. Control your blood pressure and cholesterol.</h2>",
+		"displayValue": "<h1>Welcome</h1>\n<p><img style=\"max-width: 100%; max-height: 480px;\" src=\"4e0a889b4f27130028270fbf9310c721.iix\" /></p>\n<h2>By taking steps toward&nbsp;<strong>healthy living</strong>, you can help reduce your risk of heart disease, cancer, stroke and other serious diseases: ... Maintain a&nbsp;<strong>healthy</strong>&nbsp;weight. Eat a variety of&nbsp;<strong>healthy</strong>&nbsp;foods, and limit calories and saturated fat. Be physically active. Control your blood pressure and cholesterol.</h2>"
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=6709849b4f27130028270fbf9310c769"/>
+</record_update>
